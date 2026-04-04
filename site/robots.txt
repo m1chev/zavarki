@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zavarki.michev.org/sitemap.xml
